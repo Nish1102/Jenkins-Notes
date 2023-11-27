@@ -1,0 +1,21 @@
+Jenkins ek open-source automation server hai jo aam taur par software projects ko build, test, aur deploy karne ke liye istemal hota hai. Isse continuous integration aur continuous delivery (CI/CD) ko facilitate karne mein madad milti hai, jisse software development ka lifecycle asaan ho jata hai. Jenkins Java mein likha gaya hai aur isme plugins ke madhyam se extend kiya ja sakta hai, jisse ise bahut hi customizable aur alag-alag workflows ke liye adaptable banaya ja sakta hai.
+
+Yahan kuch key features aur concepts hain jo Jenkins ke saath jude hote hain:
+
+1. **Continuous Integration (CI):** Jenkins code changes ko multiple contributors se ek shared repository mein integrate karne ka process automate karta hai. Isse development process mein integration issues ko early stage mein identify aur fix kiya ja sakta hai.
+
+2. **Continuous Delivery (CD):** Jenkins continuous delivery ko support karta hai by deployment process ko automate karke, jisse software ko production mein tezi se aur bharosa se deliver kiya ja sake.
+
+3. **Jobs aur Pipelines:** Jenkins mein tasks ko jobs mein organize kiya jata hai. Ek job ek simple build process ho sakta hai ya phir ek complex pipeline, jisme multiple stages shaamil ho sakte hain, jaise ki building, testing, aur deploying. Pipelines ek tareeka provide karte hain multi-stage automation processes ko define aur visualize karne ka.
+
+4. **Plugins:** Jenkins ke paas ek bada ecosystem hai plugins ka jo iski functionality ko extend karte hain. Plugins ka istemal Jenkins ko alag-alag tools aur technologies ke saath integrate karne ke liye kiya ja sakta hai, jisse ek wide range ki automation possibilities ho jati hai.
+
+5. **Distributed Builds:** Jenkins build aur test tasks ko multiple machines mein distribute kar sakta hai, jisse parallel execution aur faster feedback ho sakta hai.
+
+6. **Version Control Integration:** Jenkins version control systems (jaise ki Git, Subversion) ke saath integrate ho sakta hai taaki code changes hone par builds ko automate kiya ja sake.
+
+7. **Web Interface:** Jenkins ek web-based user interface provide karta hai jisme jobs ko configure aur monitor kiya ja sakta hai. Users web browser ke madhyam se Jenkins tak pahunch sakte hain aur build results, logs, aur dusri information dekh sakte hain.
+
+8. **Community aur Extensibility:** Jenkins ek bada aur active community ke saath aata hai. Iski open-source nature ki wajah se users plugins contribute kar sakte hain, best practices share kar sakte hain, aur improvements par collaborate kar sakte hain.
+
+Jenkins aaj ke software development practices mein ek mahatva purna bhumika nibhata hai, jisse teams repetitive tasks ko automate kar sakti hain, manual errors ko kam kar sakti hain, aur high-quality software ko tezi se deliver kar sakti hain.
